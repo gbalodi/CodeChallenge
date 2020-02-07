@@ -1,0 +1,2 @@
+class PageviewsController < ApplicationController
+end
